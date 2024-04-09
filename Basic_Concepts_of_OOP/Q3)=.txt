@@ -1,0 +1,29 @@
+Q3=What is the difference between OOP and POP?
+OOP	                                |              POP
+____________________________________|__________________________________________________________                                              
+1.Object oriented.	                |         Structure oriented.
+____________________________________|______________________________________________________________
+2.Program is divided into objects.	|     Program is divided into functions.
+____________________________________|_____________________________________________________________
+3.Bottom-up approach.               |	 Top-down approach.
+____________________________________|_____________________________________________________________
+4.Inheritance property is used.	    |    Inheritance is not allowed.
+____________________________________|____________________________________________________________
+5.It uses access specifier.	        |    It doesn’t use access specifier.
+____________________________________|______________________________________________________________
+6.Encapsulation is used             |
+to hide the data.	                |     No data hiding.
+____________________________________|______________________________________________________________
+7.Concept of virtual function.	    |     No virtual function.
+____________________________________|_____________________________________________________________
+8.Object functions are linked       |
+through message passing.	        |     Parts of program are linked through parameter passing.
+____________________________________|_____________________________________________________________
+9.Adding new data and               |
+functions is easy	                |      Expanding new data and functions is not easy.
+____________________________________|______________________________________________________________
+10.The existing code can be reused.	|      No code reusability.
+____________________________________|_____________________________________________________________
+11.use for solving big problems.    |      Not suitable for solving big problems.
+____________________________________|_____________________________________________________________
+12.C++, Java.	                    |      C, Pascal.
